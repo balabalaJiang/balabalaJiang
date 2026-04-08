@@ -44,6 +44,14 @@
 
 ---
 
+### 📊 GitHub 數據統計
+<p align="left">
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=balabalaJiang&show_icons=true&theme=radical&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=balabalaJiang&show_icons=true&theme=radical&include_all_commits=true&count_private=true)" />
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=balabalaJiang&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=balabalaJiang&layout=compact&theme=radical)" />
+</p>
+
+---
+
 ### ✍️ 最近的 Commit 活動
 
 * 🛠 優化 Chest X-Ray 模型的精準度與推論速度。
