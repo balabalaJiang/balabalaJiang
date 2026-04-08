@@ -1,5 +1,4 @@
 # 👋 你好，我是 Austin
-![Header](https://capsule-render.vercel.app/render?type=wave&color=auto&height=200&section=header&text=歡迎來到我的GitHub&fontSize=60)
 
 ### 🚀 About me
 - 🔭 我目前在學習 **醫學影像辨識**。
