@@ -1,34 +1,26 @@
 # 你好，我是 Austin
 
-### 🚀 關於我
+### 🎓 關於我 (About Me)
 
-* 🔭 我目前專注於 **醫療影像診斷 (Medical Imaging)** 與 **大數據分析 (Big Data Analytics)**。
-* 🌱 致力於結合深度學習與 SQL 數據處理技術，解決複雜的資料科學問題。
-* ⚡ 興趣：電腦視覺、數據建模、分散式運算與模型優化。
+你好！我目前是 **中山醫學大學 醫學資訊學系** 的學生。我熱衷於將程式技術應用於解決現實世界的難題，特別是 **醫療 AI** 與 **大規模數據分析**。
 
----
-
-### 📂 精選專案展示
-
-#### 🏆 1. 胸部 X 光影像分類 (Chest X-Ray Classification)
-> 利用深度學習模型針對胸部 X 光片進行病灶偵測與多類別分類（如肺炎、肺氣腫等）。
-
-* **核心技術**：Python, PyTorch/TensorFlow, Computer Vision
-* **專案亮點**：
-    * 實現多種 CNN 結構進行模型效能比較。
-    * 處理醫療數據集中的類別不平衡問題。
-* [🔗 前往儲存庫查看詳細程式碼](https://github.com/balabalaJiang/Chest-XRay-Classification-DL)
+* 🔭 **目前研究**：醫療影像中的深度學習應用。
+* 🌱 **持續進修**：正在深入學習 SQL 查詢優化與分散式數據處理。
+* 🎯 **未來目標**：成為一名能夠利用數據創造價值的 AI 工程師。
 
 ---
 
-#### 🏆 2. 大數據 SQL 機器學習專案 (BigData-SQL-ML-Project)
-> 結合 SQL 資料庫管理與機器學習流程，進行大規模數據的清洗、分析與預測建模。
+### 📂 精選開發專案
 
-* **核心技術**：SQL, Big Data Tools, Machine Learning, Data Engineering
-* **專案亮點**：
-    * 設計高效 SQL 查詢進行特徵工程。
-    * 整合大數據處理流程與機器學習演算法。
-* [🔗 前往儲存庫查看詳細程式碼](https://github.com/balabalaJiang/BigData-SQL-ML-Project)
+#### 🏆 1. [胸部 X 光影像分類 (Deep Learning)](https://github.com/balabalaJiang/Chest-XRay-Classification-DL)
+> 我的深度學習實作作品，目標是透過 CNN 模型自動化輔助醫療診斷。
+* **技術關鍵字**：Python, PyTorch, CNN, Computer Vision
+* **學習收穫**：掌握了數據增強 (Data Augmentation) 與處理醫療數據不平衡的技巧。
+
+#### 🏆 2. [大數據 SQL 機器學習專案](https://github.com/balabalaJiang/BigData-SQL-ML-Project)
+> 結合資料庫管理與預測模型，模擬現實中的大數據分析流程。
+* **技術關鍵字**：SQL, Machine Learning, Data Engineering
+* **學習收穫**：學習如何撰寫高效 SQL 腳本進行特徵工程與大規模數據清洗。
 
 ---
 
@@ -38,22 +30,10 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub 數據統計
-<p align="left">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=balabalaJiang&show_icons=true&theme=radical&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=balabalaJiang&show_icons=true&theme=radical&include_all_commits=true&count_private=true)" />
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=balabalaJiang&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=balabalaJiang&layout=compact&theme=radical)" />
-</p>
-
----
-
-### ✍️ 最近的 Commit 活動
-
-* 🛠 優化 Chest X-Ray 模型的精準度與推論速度。
-* 📊 更新 BigData-SQL-ML 專案的資料清洗邏輯。
-* 📖 探索 Spark 與深度學習的整合應用。
+### 📫 如何找到我
+* **Email**: [doublea.jiang@gmail.com]
