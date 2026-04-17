@@ -48,7 +48,7 @@
 </p>
 
 #### 🐍 貢獻貪吃蛇 (Contribution Graph)
-![snake gif](https://github.com/balabalaJiang/balabalaJiang/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/balabalaJiang/balabalaJiang/output/github-contribution-grid-snake.svg)
 
 ---
 
