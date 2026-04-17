@@ -32,19 +32,20 @@
 ### 🛠 專業技能 (Tech Stack)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
 
 ### 📈 數據統計與活動
+
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=balabalaJiang&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balabalaJiang&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=balabalaJiang&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balabalaJiang&layout=compact&theme=tokyonight" />
 </p>
 
 #### 🐍 貢獻貪吃蛇 (Contribution Graph)
@@ -56,3 +57,4 @@
 * **LinkedIn**: [江永閎](https://www.linkedin.com/in/%E6%B0%B8%E9%96%8E-%E6%B1%9F-132960403/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bs2HnWgtqSJG9r9wD%2BG9frA%3D%3D)
 * **GitHub**: [balabalaJiang](https://github.com/balabalaJiang)
 * **Email**: [doublea.jiang@gmail.com]
+* **訪客統計**: ![Visitor Count](https://komarev.com/ghpvc/?username=balabalaJiang&color=70a5fd&style=flat-square)
