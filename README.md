@@ -20,15 +20,11 @@
 * **技術棧**：Python, PyTorch, Computer Vision
 * **重點**：運用卷積神經網路 (CNN) 實現多類別病灶偵測，並透過數據增強解決醫療影像類別不平衡問題。
 
-#### 🎮 3. [Save-or-Roast 互動開發專案](https://github.com/balabalaJiang/Save-or-Roast)
-* **技術棧**：React, JavaScript, CSS3, Web Interactivity
-* **重點**：展現前端開發與邏輯設計能力，打造具備高度互動性與趣味性的 Web 應用程式。
-
-#### 🚀 4. [太空 AI 儀表板 (Space-AI-Dashboard-NodeRED)](https://github.com/balabalaJiang/Space-AI-Dashboard-NodeRED)
+#### 🚀 3. [太空 AI 儀表板 (Space-AI-Dashboard-NodeRED)](https://github.com/balabalaJiang/Space-AI-Dashboard-NodeRED)
 * **技術棧**：Node-RED, JavaScript, Dashboard Integration
 * **重點**：利用 Low-code 工具實現即時數據流監控與視覺化，優化系統管理效率。
 
-#### 📊 5. [大數據 SQL 機器學習專案](https://github.com/balabalaJiang/BigData-SQL-ML-Project)
+#### 📊 4. [大數據 SQL 機器學習專案](https://github.com/balabalaJiang/BigData-SQL-ML-Project)
 * **技術棧**：SQL, Machine Learning, Data Engineering
 * **重點**：設計高效 ETL 流程將原始數據轉化為具價值的特徵集，並整合預測建模流程。
 
