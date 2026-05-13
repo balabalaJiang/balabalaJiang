@@ -8,13 +8,13 @@
   <br>
 
   <!-- 將【你的網站網址】替換成真實連結，將【你的預覽圖網址】替換成你製作好的圖片連結 -->
-  <a href="【你的網站網址】">
-    <img src="【你的預覽圖網址】" alt="My Personal Website Preview" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  <a href="https://balabalajiang.github.io/My-Personal-Website/">
+    <img src="/assets/網頁影片.gif" alt="My Personal Website Preview" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
   </a>
 
   <br><br>
   <a href="https://balabalajiang.github.io/My-Personal-Website/">
-    <img src="https://img.shields.io/badge/🌐_立即探索_Portfolio_Website-1a1b26?style=for-the-badge&logoColor=70a5fd&labelColor=70a5fd&color=1a1b26" alt="Enter Website" height="45">
+    <img src="https://img.shields.io/badge/🌐_了解更多_Portfolio_Website-1a1b26?style=for-the-badge&logoColor=70a5fd&labelColor=70a5fd&color=1a1b26" alt="Enter Website" height="45">
   </a>
   <br><br>
 </div>
