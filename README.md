@@ -1,5 +1,26 @@
 # 👋 你好，我是江永閎
 
+<div align="center">
+  <h3>個人網站</h3>
+  <p>這是我從零打造的個人專屬空間，整合了所有的技術專案、醫療 AI 研究與開發日誌。</p>
+  <p><b>👇 點擊下方圖片，直接進入我的互動式網站 👇</b></p>
+  
+  <br>
+
+  <!-- 將【你的網站網址】替換成真實連結，將【你的預覽圖網址】替換成你製作好的圖片連結 -->
+  <a href="【你的網站網址】">
+    <img src="【你的預覽圖網址】" alt="My Personal Website Preview" width="800" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+  </a>
+
+  <br><br>
+  <a href="https://balabalajiang.github.io/My-Personal-Website/">
+    <img src="https://img.shields.io/badge/🌐_立即探索_Portfolio_Website-1a1b26?style=for-the-badge&logoColor=70a5fd&labelColor=70a5fd&color=1a1b26" alt="Enter Website" height="45">
+  </a>
+  <br><br>
+</div>
+
+---
+
 ### 🎓 關於我
 
 目前就讀於 **中山醫學大學 (CSMU) 醫學資訊學系**。我致力於結合醫療領域知識與人工智慧技術，專注於開發輔助診斷系統與大數據分析流程。
@@ -56,6 +77,7 @@
 ---
 
 ### 📫 如何聯繫我
+* **個人網站**: [https://balabalajiang.github.io/My-Personal-Website/](https://balabalajiang.github.io/My-Personal-Website/)
 * **Email**: doublea.jiang@gmail.com
 * **GitHub**: [balabalaJiang](https://github.com/balabalaJiang)
 * **LinkedIn**: [江永閎](https://www.linkedin.com/in/%E6%B0%B8%E9%96%8E-%E6%B1%9F-132960403/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bs2HnWgtqSJG9r9wD%2BG9frA%3D%3D)
