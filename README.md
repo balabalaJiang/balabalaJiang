@@ -34,32 +34,45 @@
 ### 📂 精選技術專案
 
 #### 🩺 1. [MIMIC-III ICU 數據預處理 (MIMIC-III-ICU-Preprocessing)](https://github.com/balabalaJiang/MIMIC-III-ICU-Preprocessing)
-* **技術棧**：Python, Pandas, SQL, Healthcare Data Science
-* **重點**：針對世界級醫療重症資料庫 MIMIC-III 進行大規模 ETL，包含數據清洗、異常值處理及臨床生理指標的特徵提取。
+* **核心技術**：Python, Pandas, SQL, Healthcare Data Science
+* **重點**：針對 MIMIC-III 資料庫進行複雜的 ETL 流程，包含生理特徵提取與數據對齊，為臨床預測模型奠定基礎。
 
 #### 📸 2. [胸部 X 光影像分類 (Chest X-Ray Classification)](https://github.com/balabalaJiang/Chest-XRay-Classification-DL)
-* **技術棧**：Python, PyTorch, Computer Vision
-* **重點**：運用卷積神經網路 (CNN) 實現多類別病灶偵測，並透過數據增強解決醫療影像類別不平衡問題。
+* **核心技術**：Python, PyTorch, Computer Vision (CNN)
+* **重點**：實現多類別病灶自動化偵測，並透過影像增強技術優化醫療數據分布不均的問題。
 
-#### 🚀 3. [太空 AI 儀表板 (Space-AI-Dashboard-NodeRED)](https://github.com/balabalaJiang/Space-AI-Dashboard-NodeRED)
-* **技術棧**：Node-RED, JavaScript, Dashboard Integration
-* **重點**：利用 Low-code 工具實現即時數據流監控與視覺化，優化系統管理效率。
+#### 🌐 3. [個人網站 (My-Personal-Website)](https://github.com/balabalaJiang/My-Personal-Website)
+* **核心技術**：React, Tailwind CSS, Responsive Design
+* **重點**：具備高度設計感的個人門面，展示從 UI 設計到前端邏輯開發的整合能力。
 
 #### 📊 4. [大數據 SQL 機器學習專案](https://github.com/balabalaJiang/BigData-SQL-ML-Project)
-* **技術棧**：SQL, Machine Learning, Data Engineering
-* **重點**：設計高效 ETL 流程將原始數據轉化為具價值的特徵集，並整合預測建模流程。
+* **核心技術**：SQL, Machine Learning, Data Engineering
+* **重點**：展示利用 SQL 進行大規模特徵工程，並結合機器學習模型分析數據趨勢。
+
+#### 🚀 5. [太空 AI 儀表板 (Space-AI-Dashboard-NodeRED)](https://github.com/balabalaJiang/Space-AI-Dashboard-NodeRED)
+* **核心技術**：Node-RED, JavaScript, IoT Integration
+* **重點**：運用 Low-code 工具實現即時數據流監控，展現跨領域系統整合的靈活性。
 
 ---
 
 ### 🛠 專業技能
 
+#### 🧬 資料科學與醫療 AI
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+</p>
+
+#### 💻 前端開發與系統整合
+<p align="left">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Node--RED-8F0000?style=flat-square&logo=nodered&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
