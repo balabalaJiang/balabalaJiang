@@ -84,9 +84,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balabalaJiang&layout=compact&theme=tokyonight" />
 </p>
 
-#### 🐍 貢獻貪吃蛇
-![snake gif](https://raw.githubusercontent.com/balabalaJiang/balabalaJiang/output/github-contribution-grid-snake.svg)
-
 ---
 
 ### 📫 如何聯繫我
